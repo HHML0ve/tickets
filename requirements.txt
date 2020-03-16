@@ -1,0 +1,5 @@
+prettytable
+docopt
+requests
+colorama
+fake_useragent
